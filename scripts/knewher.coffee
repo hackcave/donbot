@@ -23,4 +23,4 @@ module.exports = (robot) ->
         , "I just met her!"
         , "But I only just met her!"
         ]
-    if Math.random() < 0.314 then msg.send "#{word}? #{joke}"
+    if Math.random() < 0.0314 then msg.send "#{word}? #{joke}"
