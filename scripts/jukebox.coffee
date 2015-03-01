@@ -16,7 +16,7 @@
 #   vikraman
 
 updateSong = (robot) ->
-  room = process.env.HUBOT_JUKEBOX_ROOM
+  room = process.env.HUBOT_JUKEBOX_ROOM.replace /^#/, ""
   user = process.env.HUBOT_JUKEBOX_LASTFM_USER
   apiKey = process.env.HUBOT_LASTFM_APIKEY
   robot.http('http://ws.audioscrobbler.com/2.0/?')
