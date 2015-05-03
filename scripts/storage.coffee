@@ -23,3 +23,5 @@ module.exports = (robot) ->
 
     msg.send response
 
+  robot.respond /forget users$/i, (msg) ->
+    robot.brain.data.users = []
