@@ -34,7 +34,6 @@
     "complete.coffee",
     "bing.coffee",
     "tasks.coffee",
-    "http-info.coffee",
     "brb.coffee",
     "working-on.coffee",
     "good-night.coffee",
@@ -107,5 +106,6 @@
     "oblique.coffee",
     "plus_one.coffee",
     "put-it-back.coffee",
-    "http-post-say.coffee"
+    "http-post-say.coffee",
+    "web.coffee"
 ]
