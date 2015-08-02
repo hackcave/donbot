@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-cron",
-  "hubot-plusplus"
+  "hubot-plusplus",
+	"hubot-phabricator"
 ]
