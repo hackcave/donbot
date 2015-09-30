@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-cron",
   "hubot-plusplus",
-	"hubot-phabricator"
+  "hubot-phabricator",
+  "hubot-garble"
 ]
