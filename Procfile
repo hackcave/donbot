@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n donbot
+web: bin/hubot -a ryver -n donbot
