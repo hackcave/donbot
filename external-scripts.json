@@ -12,5 +12,6 @@
   "hubot-cron",
   "hubot-plusplus",
   "hubot-phabricator",
-  "hubot-garble"
+  "hubot-garble",
+  "hubot-rightgif"
 ]
