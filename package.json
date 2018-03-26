@@ -8,7 +8,7 @@
     "cheerio": "~0.22.0",
     "chess": "0.2.7",
     "chrono-node": "^1.2.4",
-    "coffee-script": "^1.6.3",
+    "coffee-script": ">=1.6.3",
     "date-utils": ">=1.2.21",
     "flip": "~1.0.0",
     "githubot": "1.0.x",
@@ -50,6 +50,6 @@
     "xml2js": "^0.4.17"
   },
   "engines": {
-    "node": "4.4.1"
+    "node": "8.9.3"
   }
 }
