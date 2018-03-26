@@ -1,4 +1,5 @@
 [
+  "hubot-auth",
   "hubot-diagnostics",
   "hubot-heroku-keepalive",
   "hubot-google-images",
@@ -11,7 +12,7 @@
   "hubot-youtube",
   "hubot-cron",
   "hubot-plusplus",
-  "hubot-phabricator",
+  "hubot-phabs",
   "hubot-garble",
   "hubot-rightgif"
 ]
