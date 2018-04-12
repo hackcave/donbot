@@ -1,6 +1,5 @@
 [
     "redis-brain.coffee",
-    "shipit.coffee",
     "tell.coffee",
     "catfacts.coffee",
     "cheer.coffee",
